@@ -1,0 +1,8 @@
+Class Helo world{
+
+static void main(){
+System.Console.Writelinee("Изучаем язык C#")
+
+}
+
+}
